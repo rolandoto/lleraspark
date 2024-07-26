@@ -49,13 +49,13 @@ const Footer =() =>{
                             <h2 class="text-center text-xl font-semibold mb-6">CONTACTO</h2>
                             <form class="space-y-4">
                                 <div class="grid grid-cols-2 gap-4">
-                                    <input class="col-span-1 bg-white text-black p-3 focus:outline-none focus:ring-2 focus:ring-orange-500" type="text" placeholder="Nombre"/>
-                                    <input class="col-span-1 bg-white text-black p-3  focus:outline-none focus:ring-2 focus:ring-orange-500" type="email" placeholder="Email" />
+                                    <input class="col-span-1 bg-white text-black p-3 focus:outline-none focus:ring-2 focus:ring-black" type="text" placeholder="Nombre"/>
+                                    <input class="col-span-1 bg-white text-black p-3  focus:outline-none focus:ring-2 focus:ring-ring-black" type="email" placeholder="Email" />
                                 </div>
 
                                 <div class="grid grid-cols-2 gap-4">
-                                    <input class="col-span-1 bg-white text-black p-3 focus:outline-none focus:ring-2 focus:ring-orange-500" type="text" placeholder="Teléfono"/>
-                                    <button type="submit" class="bg-black text-white border border-white p-3  focus:outline-none focus:ring-2 focus:ring-orange-500 hover:bg-white hover:text-black">Enviar</button>
+                                    <input class="col-span-1 bg-white text-black p-3 focus:outline-none focus:ring-2 focus:ring-black" type="text" placeholder="Teléfono"/>
+                                    <button type="submit" class="bg-black text-white border border-white p-3  focus:outline-none focus:ring-2 focus:ring-black hover:bg-white hover:text-black">Enviar</button>
                                 </div>
                             </form>
                         </div>
@@ -66,7 +66,7 @@ const Footer =() =>{
                 <div className="text-center border-t-1  mx-auto max-w-7xl  text-black mt-8">
                     <div className=" flex  flex-col sm:flex-row  justify-between mt-8 mx-auto max-w-7xl items-center">
                             <div>
-                                Copyright © 2024 – All Rights Reserved Natural Hotel
+                                Copyright © 2024 – All Rights Reserved Hotel Lleras Park
                             </div>
                                     <div className=" ">
                                     <div className="flex space-x-4">
